@@ -16,4 +16,4 @@ Working on cm12.1 source
   * Change of Android 5.1 source to skip network validation in some environment like China can't connect to http://clients3.google.com/generate_204. 
 
   To see: 
-    [Skip_network_validation](http://github.com/ferhung/Skip_network_validation)
+    [Skip_network_validation](http://github.com/Kermi6666/Skip_network_validation)
