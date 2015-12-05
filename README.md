@@ -1,7 +1,8 @@
 # android_devices_Xiaomi_HM2013121-HMNote1W-
-Thanks for ferhung!!!
 This is a device tree for Xiaomi RedmiNote1W(HM2013121) which is based on MT6592 SoC. Powered by Kermi.
 Working on cm12.1 source
+
+  Thanks for ferhung!!!
 
 
 * full build
@@ -15,4 +16,4 @@ Working on cm12.1 source
   * Change of Android 5.1 source to skip network validation in some environment like China can't connect to http://clients3.google.com/generate_204. 
 
   To see: 
-    [Skip_network_validation](http://github.com/Kermi6666/Skip_network_validation)
+    [Skip_network_validation](http://github.com/ferhung/Skip_network_validation)
